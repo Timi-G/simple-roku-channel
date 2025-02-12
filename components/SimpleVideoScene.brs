@@ -53,15 +53,15 @@ sub setContent()
   ContentNode.Title = "Craig Venter asks, Can we create new life out of our digital universe?"
   ContentNode.subtitleConfig = {Trackname: "pkg:/source/CraigVenter.srt" }
 
-  m.Image.uri="pkg:/images/BigBuckBunny.jpg"
-  ContentNode = CreateObject("roSGNode", "ContentNode")
-  ContentNode.streamFormat = "mp4"
-  ContentNode.url = "http://video.ted.com/talks/podcast/CraigVenter_2008_480.mp4"
-  ContentNode.ShortDescriptionLine1 = "Big Buck Bunny"
-  ContentNode.Description = "Big Buck Bunny is being served using a Wowza server running on Amazon EC2 cloud services. The video is transported via HLS HTTP Live Streaming. A team of small artists from the Blender community produced this open source content..."
-  ContentNode.StarRating = 80
-  ContentNode.Length = 600
-  ContentNode.Title = "Big Buck Bunny"
+  'm.Image.uri="pkg:/images/BigBuckBunny.jpg"
+  'ContentNode = CreateObject("roSGNode", "ContentNode")
+  'ContentNode.streamFormat = "mp4"
+  'ContentNode.url = "http://video.ted.com/talks/podcast/CraigVenter_2008_480.mp4"
+  'ContentNode.ShortDescriptionLine1 = "Big Buck Bunny"
+  'ContentNode.Description = "Big Buck Bunny is being served using a Wowza server running on Amazon EC2 cloud services. The video is transported via HLS HTTP Live Streaming. A team of small artists from the Blender community produced this open source content..."
+  'ContentNode.StarRating = 80
+  'ContentNode.Length = 600
+  'ComtentNode.Title = "Big Buck Bunny"
 
   m.Video.content = ContentNode
 
