@@ -31,27 +31,27 @@ end sub
 sub setContent()
 
   'Change the image
-  m.Image.uri="pkg:/images/mira_chatribbit.png"
+  ' m.Image.uri="pkg:/images/mira_chatribbit.png"
+  ' ContentNode = CreateObject("roSGNode", "ContentNode")
+  ' ContentNode.streamFormat = "mp4"
+  ' ContentNode.url = "https://iframe.mediadelivery.net/play/376887/dd9fae3a-d88b-4cb3-bf5a-dc92e8ea2cfa"
+  ' ContentNode.ShortDescriptionLine1 = "Chat and Ribbit"
+  ' ContentNode.Description = "Chat and Ribbit dine with Mira"
+  ' ContentNode.StarRating = 80
+  ' ContentNode.Length = 1280
+  ' ContentNode.Title = "Chat and Ribbit"
+  ' ContentNode.subtitleConfig = {Trackname: "pkg:/source/ChatandRibbit.srt" }
+
+  m.Image.uri="pkg:/images/CraigVenter-2008.jpg"
   ContentNode = CreateObject("roSGNode", "ContentNode")
   ContentNode.streamFormat = "mp4"
-  ContentNode.url = "https://iframe.mediadelivery.net/play/376887/dd9fae3a-d88b-4cb3-bf5a-dc92e8ea2cfa"
-  ContentNode.ShortDescriptionLine1 = "Chat and Ribbit"
-  ContentNode.Description = "Chat and Ribbit dine with Mira"
+  ContentNode.url = "http://video.ted.com/talks/podcast/DanGilbert_2004_480.mp4"
+  ContentNode.ShortDescriptionLine1 = "Can we create new life out of our digital universe?"
+  ContentNode.Description = "He walks the TED2008 audience through his latest research into fourth-generation fuels -- biologically created fuels with CO2 as their feedstock. His talk covers the details of creating brand-new chromosomes using digital technology, the reasons why we would want to do this, and the bioethics of synthetic life. A fascinating Q and A with TED's Chris Anderson follows."
   ContentNode.StarRating = 80
-  ContentNode.Length = 1280
-  ContentNode.Title = "Chat and Ribbit"
-  ContentNode.subtitleConfig = {Trackname: "pkg:/source/ChatandRibbit.srt" }
-
-  'm.Image.uri="pkg:/images/CraigVenter-2008.jpg"
-  'ContentNode = CreateObject("roSGNode", "ContentNode")
-  'ContentNode.streamFormat = "mp4"
-  'ContentNode.url = "http://video.ted.com/talks/podcast/DanGilbert_2004_480.mp4"
-  'ContentNode.ShortDescriptionLine1 = "Can we create new life out of our digital universe?"
-  'ContentNode.Description = "He walks the TED2008 audience through his latest research into fourth-generation fuels -- biologically created fuels with CO2 as their feedstock. His talk covers the details of creating brand-new chromosomes using digital technology, the reasons why we would want to do this, and the bioethics of synthetic life. A fascinating Q and A with TED's Chris Anderson follows."
-  'ContentNode.StarRating = 80
-  'ContentNode.Length = 1972
-  'ContentNode.Title = "Craig Venter asks, Can we create new life out of our digital universe?"
-  'ContentNode.subtitleConfig = {Trackname: "pkg:/source/CraigVenter.srt" }
+  ContentNode.Length = 1972
+  ContentNode.Title = "Craig Venter asks, Can we create new life out of our digital universe?"
+  ContentNode.subtitleConfig = {Trackname: "pkg:/source/CraigVenter.srt" }
 
   ' m.Image.uri="pkg:/images/BigBuckBunny.jpg"
   ' ContentNode = CreateObject("roSGNode", "ContentNode")
