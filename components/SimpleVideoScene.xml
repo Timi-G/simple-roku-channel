@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!-- Copyright 2016 Roku Corp.  All Rights Reserved. -->
-<component name="MiraCole+" extends="Scene">
+<component name="SimpleVideoScene" extends="Scene">
   <children>
 
     <Label id="Title" font="font:LargeBoldSystemFont" translation="[750, 250]" width="850" />
