@@ -35,7 +35,7 @@ sub setContent()
   ' ContentNode = CreateObject("roSGNode", "ContentNode")
   ' ContentNode.streamFormat = "mp4"
   ' ContentNode.url = "https://iframe.mediadelivery.net/play/376887/dd9fae3a-d88b-4cb3-bf5a-dc92e8ea2cfa"
-`  ' ContentNode.ShortDescriptionLine1 = "Chat and Ribbit"
+  ' ContentNode.ShortDescriptionLine1 = "Chat and Ribbit"
   ' ContentNode.Description = "Chat and Ribbit dine with Mira"
   ' ContentNode.StarRating = 80
   ' ContentNode.Length = 1280
@@ -70,11 +70,11 @@ sub setContent()
   m.ButtonGroup.buttons = Buttons
 
   'Change the details
-  ' m.Title.text = "Dan Gilbert asks, Why are we happy?"
-  ' m.Details.text = "Harvard psychologist Dan Gilbert says our beliefs about what will make us happy are often wrong -- a premise he supports with intriguing research, and explains in his accessible and unexpectedly funny book, Stumbling on Happiness."
+  m.Title.text = "Dan Gilbert asks, Why are we happy?"
+  m.Details.text = "Harvard psychologist Dan Gilbert says our beliefs about what will make us happy are often wrong -- a premise he supports with intriguing research, and explains in his accessible and unexpectedly funny book, Stumbling on Happiness."
 
-  m.Title.text = "Chat and Ribbit"
-  m.Details.text =  "Chat and Ribbit dine with Mira"
+  'm.Title.text = "Chat and Ribbit"
+  'm.Details.text =  "Chat and Ribbit dine with Mira"
 
 end sub
 
