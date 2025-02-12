@@ -35,7 +35,7 @@ sub setContent()
   ' ContentNode = CreateObject("roSGNode", "ContentNode")
   ' ContentNode.streamFormat = "mp4"
   ' ContentNode.url = "https://iframe.mediadelivery.net/play/376887/dd9fae3a-d88b-4cb3-bf5a-dc92e8ea2cfa"
-  ' ContentNode.ShortDescriptionLine1 = "Chat and Ribbit"
+`  ' ContentNode.ShortDescriptionLine1 = "Chat and Ribbit"
   ' ContentNode.Description = "Chat and Ribbit dine with Mira"
   ' ContentNode.StarRating = 80
   ' ContentNode.Length = 1280
@@ -53,15 +53,15 @@ sub setContent()
   ContentNode.Title = "Craig Venter asks, Can we create new life out of our digital universe?"
   ContentNode.subtitleConfig = {Trackname: "pkg:/source/CraigVenter.srt" }
 
-  ' m.Image.uri="pkg:/images/BigBuckBunny.jpg"
-  ' ContentNode = CreateObject("roSGNode", "ContentNode")
-  ' ContentNode.streamFormat = "mp4"
-  ' ContentNode.url = "http://video.ted.com/talks/podcast/CraigVenter_2008_480.mp4"
-  ' ContentNode.ShortDescriptionLine1 = "Big Buck Bunny"
-  ' ContentNode.Description = "Big Buck Bunny is being served using a Wowza server running on Amazon EC2 cloud services. The video is transported via HLS HTTP Live Streaming. A team of small artists from the Blender community produced this open source content..."
-  ' ContentNode.StarRating = 80
-  ' ContentNode.Length = 600
-  ' ContentNode.Title = "Big Buck Bunny"
+  m.Image.uri="pkg:/images/BigBuckBunny.jpg"
+  ContentNode = CreateObject("roSGNode", "ContentNode")
+  ContentNode.streamFormat = "mp4"
+  ContentNode.url = "http://video.ted.com/talks/podcast/CraigVenter_2008_480.mp4"
+  ContentNode.ShortDescriptionLine1 = "Big Buck Bunny"
+  ContentNode.Description = "Big Buck Bunny is being served using a Wowza server running on Amazon EC2 cloud services. The video is transported via HLS HTTP Live Streaming. A team of small artists from the Blender community produced this open source content..."
+  ContentNode.StarRating = 80
+  ContentNode.Length = 600
+  ContentNode.Title = "Big Buck Bunny"
 
   m.Video.content = ContentNode
 
@@ -70,8 +70,8 @@ sub setContent()
   m.ButtonGroup.buttons = Buttons
 
   'Change the details
-  'm.Title.text = "Dan Gilbert asks, Why are we happy?"
-  'm.Details.text = "Harvard psychologist Dan Gilbert says our beliefs about what will make us happy are often wrong -- a premise he supports with intriguing research, and explains in his accessible and unexpectedly funny book, Stumbling on Happiness."
+  ' m.Title.text = "Dan Gilbert asks, Why are we happy?"
+  ' m.Details.text = "Harvard psychologist Dan Gilbert says our beliefs about what will make us happy are often wrong -- a premise he supports with intriguing research, and explains in his accessible and unexpectedly funny book, Stumbling on Happiness."
 
   m.Title.text = "Chat and Ribbit"
   m.Details.text =  "Chat and Ribbit dine with Mira"
