@@ -1,4 +1,4 @@
-' ********** Copyright 2016 Roku Corp.  All Rights Reserved. **********
+i' ********** Copyright 2016 Roku Corp.  All Rights Reserved. **********
 
 ' 1st function that runs for the scene component on channel startup
 sub init()
@@ -31,10 +31,10 @@ end sub
 sub setContent()
 
   'Change the image
-  m.Image.uri="pkg:/images/mira_chatribbit.png"
+  m.Image.uri"pkg:/images/mira_chatribbit.png"
   ContentNode = CreateObject("roSGNode", "ContentNode")
   ContentNode.streamFormat = "mp4"
-  ContentNode.url = "http://video.ted.com/talks/podcast/DanGilbert_2004_480.mp4"
+  ContentNode.url = "https://vz-ca4682e2-e0e.b-cdn.net/dd9fae3a-d88b-4cb3-bf5a-dc92e8ea2cfa/play_720p.mp4"
 
   'ContentNode.url = "https://iframe.mediadelivery.net/play/376887/dd9fae3a-d88b-4cb3-bf5a-dc92e8ea2cfa"
   ContentNode.ShortDescriptionLine1 = "Chat and Ribbit"
