@@ -1,0 +1,235 @@
+{
+	"providerName": "Roku Developers",
+	"language": "en-US",
+	"lastUpdated": "2020-03-15T02:01:00+02:00",
+	"shortFormVideos": [
+	{
+			"longDescription": "Experience the Christmas miracle that changed our lives forever, as we share the story of the birth of Jesus and how timing is everything. Join us on this heartwarming journey of faith and love.",
+			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/Christmas.png",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"children",
+                "christian"
+			],
+			"tags": [
+				"holidays"
+			],
+			"id": "shortform-roku-streaming-overview",
+			"shortDescription": "Experience the Christmas miracle that changed our lives forever.",
+			"title": "Christmas",
+			"content": {
+				"duration": 100,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://vz-ca4682e2-e0e.b-cdn.net/6ba41564-428f-4952-96c3-f2c0faed4651/play_720p.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-15T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "A contrast between the righteous, who delight in God law and thrive, and the wicked, who face destruction.",
+			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/Psalm%201.png",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"christian"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-roku-development-overview",
+			"shortDescription": "Delight in God law and thrive",
+			"title": "Psalm 1",
+			"content": {
+				"duration": 248,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://vz-ca4682e2-e0e.b-cdn.net/63429e97-60ab-45c8-b0d4-3023dd6e5101/play_720p.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "A call to let go of the past and embrace the new things God is doing.",
+			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/Isaiah%2043v18.png",
+			"releaseDate": "2020-01-17",
+			"genres": [
+				"christian"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+			"shortDescription": "A call to let go of the past!",
+			"title": "Isaiah 43:18",
+			"content": {
+				"duration": 120,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://vz-ca4682e2-e0e.b-cdn.net/2e3756a7-521f-46a9-9ffa-e92cc468d9d7/play_720p.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Lessons on humility, wealth, and eternal life, including Jesus blessing children and challenging a rich man to follow Him.",
+			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/Matthew%2019v13-26.png",
+			"releaseDate": "2020-01-17",
+			"genres": [
+				"christian"
+			],
+			"tags": [
+				"feature"
+			],
+			"id": "shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d",
+			"shortDescription": "Lessons on humility, wealth, and eternal life.",
+			"title": "Matthew 19:13-26",
+			"content": {
+				"duration": 98,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://vz-ca4682e2-e0e.b-cdn.net/2e3756a7-521f-46a9-9ffa-e92cc468d9d7/play_720p.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:12Z",
+				"captions": [{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.srt"
+					},
+					{
+						"language": "en",
+						"captionType": "CLOSED_CAPTION",
+						"url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d_2/captions/VoiceFeatures_cc_eng.vtt"
+					}
+				]
+			}
+		},
+        {
+			"longDescription": "A promise of divine protection for those who trust in God, emphasizing safety, deliverance, and peace under His care.",
+			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/Psalm%2091.png",
+			"releaseDate": "2020-01-17",
+			"genres": [
+				"christian"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+			"shortDescription": "A promise of divine protection for those who trust in God.",
+			"title": "Psalm 91",
+			"content": {
+				"duration": 120,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://vz-ca4682e2-e0e.b-cdn.net/32cae75f-5070-446f-a291-411840476528/play_720p.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "A model prayer Jesus teaches, emphasizing worship, provision, forgiveness, and deliverance.",
+			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/The%20Lord's%20Prayer.png",
+			"releaseDate": "2020-01-17",
+			"genres": [
+				"christian"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+			"shortDescription": "The model prayer Jesus teaches!",
+			"title": "The Lord's Prayer",
+			"content": {
+				"duration": 120,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://vz-ca4682e2-e0e.b-cdn.net/82acd902-cf71-453f-9229-70b1cbfc8906/play_720p.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "A declaration to trust in God as a shepherd who provides, guides, protects, and restores, offering peace and eternal blessings.",
+			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/Psalm%2023.png",
+			"releaseDate": "2020-01-17",
+			"genres": [
+				"christian"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+			"shortDescription": "A declaration to trust in God as a shepherd who provides!",
+			"title": "The Lord is my shepherd",
+			"content": {
+				"duration": 120,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://vz-ca4682e2-e0e.b-cdn.net/f5a94852-97c6-43e0-b02a-fbdf3debd26d/play_720p.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Declare restoration and protection over your life and your family!",
+			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/Psalm%2027.png",
+			"releaseDate": "2020-01-17",
+			"genres": [
+				"christian"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+			"shortDescription": "Declare restoration and protection over your life!",
+			"title": "Psalm 27",
+			"content": {
+				"duration": 120,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://vz-ca4682e2-e0e.b-cdn.net/61e6ea61-b7c2-46f5-866a-33c3bcebb068/play_720p.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "A promise of divine protection for those who trust in God, emphasizing safety, deliverance, and peace under His care.",
+			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/Psalm%2091.png",
+			"releaseDate": "2020-01-17",
+			"genres": [
+				"christian"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+			"shortDescription": "A promise of divine protection for those who trust in God.",
+			"title": "Psalm 91",
+			"content": {
+				"duration": 120,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://vz-ca4682e2-e0e.b-cdn.net/32cae75f-5070-446f-a291-411840476528/play_720p.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		}
+	]
+}
