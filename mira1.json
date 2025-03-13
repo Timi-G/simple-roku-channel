@@ -208,8 +208,8 @@
 			}
 		},
 		{
-			"longDescription": "A promise of divine protection for those who trust in God, emphasizing safety, deliverance, and peace under His care.",
-			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/Psalm%2091.png",
+			"longDescription": "Jesus teaches the cost of discipleship, calling for total commitment and prioritizing Him above all else.",
+			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/Luke%2014v25-35.png",
 			"releaseDate": "2020-01-17",
 			"genres": [
 				"christian"
@@ -218,13 +218,181 @@
 				"getting-started"
 			],
 			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
-			"shortDescription": "A promise of divine protection for those who trust in God.",
-			"title": "Psalm 91",
+			"shortDescription": "The Cost of Being a Disciple",
+			"title": "Luke 14:25-35",
 			"content": {
 				"duration": 120,
 				"videos": [{
 					"videoType": "MP4",
-					"url": "https://vz-ca4682e2-e0e.b-cdn.net/32cae75f-5070-446f-a291-411840476528/play_720p.mp4",
+					"url": "https://vz-ca4682e2-e0e.b-cdn.net/4f34deb0-0f47-45bb-8bb0-4801908ec4b1/play_720p.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Declare restoration and protection over your life and your family!",
+			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/Thankful.png",
+			"releaseDate": "2020-01-17",
+			"genres": [
+				"christian"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+			"shortDescription": "Declare restoration and protection over your life!",
+			"title": "Thankful",
+			"content": {
+				"duration": 120,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://vz-ca4682e2-e0e.b-cdn.net/dd9fae3a-d88b-4cb3-bf5a-dc92e8ea2cfa/play_720p.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Declare restoration and protection over your life and your family!",
+			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/Psalm%2027.png",
+			"releaseDate": "2020-01-17",
+			"genres": [
+				"christian"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+			"shortDescription": "Declare restoration and protection over your life!",
+			"title": "John 3:16",
+			"content": {
+				"duration": 120,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://vz-ca4682e2-e0e.b-cdn.net/6c586624-da53-4bcb-9ba5-3eeb84b2d581/play_720p.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Experience the powerful story of a father's love in this touching video inspired by the Prodigal Son. Watch how love can change everything.",
+			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/Prodigal%20Son.png",
+			"releaseDate": "2020-01-17",
+			"genres": [
+				"christian"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+			"shortDescription": "Experience the powerful story of a father's love",
+			"title": "Prodigal Son",
+			"content": {
+				"duration": 120,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://vz-ca4682e2-e0e.b-cdn.net/06c97dc1-f405-4013-93bb-bd364e9e4455/play_720p.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Master the 10 Commandments in 2024 and CHANGE YOUR LIFE",
+			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/10%20Commandments.png",
+			"releaseDate": "2020-01-17",
+			"genres": [
+				"christian"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+			"shortDescription": "Master the 10 Commandments",
+			"title": "10 Commandments",
+			"content": {
+				"duration": 120,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://vz-ca4682e2-e0e.b-cdn.net/0def6415-5e57-4297-836d-b83312bef650/play_720p.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Memorize This to Establish Your Covenant With God",
+			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/Psalm%2024.png",
+			"releaseDate": "2020-01-17",
+			"genres": [
+				"christian"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+			"shortDescription": "Memorize This to Establish Your Covenant With God",
+			"title": "Psalm 24",
+			"content": {
+				"duration": 120,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://vz-ca4682e2-e0e.b-cdn.net/f1cfd537-a9c7-4c8e-af6c-ee9110555a2d/play_720p.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "God is saying if you trust in Him, you will not be moved!",
+			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/Psalm%20125.png",
+			"releaseDate": "2020-01-17",
+			"genres": [
+				"christian"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+			"shortDescription": "God will keep you during hard times",
+			"title": "Psalm 125",
+			"content": {
+				"duration": 120,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://vz-ca4682e2-e0e.b-cdn.net/224533f9-2dae-425c-b472-8695b584acfc/play_720p.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "The book of beginnings; creation of the world, humanity, sin, and God's covenant with Abraham and his descendants.",
+			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/Genesis.png",
+			"releaseDate": "2020-01-17",
+			"genres": [
+				"christian"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+			"shortDescription": "Learn what the 1st book of the Bible, Genesis entails.",
+			"title": "The Books of the bible",
+			"content": {
+				"duration": 120,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://vz-ca4682e2-e0e.b-cdn.net/601c1741-6c74-42b2-8a38-d99a0bc01eb4/play_720p.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
