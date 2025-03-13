@@ -2,32 +2,7 @@
 	"providerName": "Roku Developers",
 	"language": "en-US",
 	"lastUpdated": "2020-03-15T02:01:00+02:00",
-	"shortFormVideos": [
-	{
-			"longDescription": "Experience the Christmas miracle that changed our lives forever, as we share the story of the birth of Jesus and how timing is everything. Join us on this heartwarming journey of faith and love.",
-			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/Christmas.png",
-			"releaseDate": "2020-01-15",
-			"genres": [
-				"children",
-                "christian"
-			],
-			"tags": [
-				"holidays"
-			],
-			"id": "shortform-roku-streaming-overview",
-			"shortDescription": "Experience the Christmas miracle that changed our lives forever.",
-			"title": "Christmas",
-			"content": {
-				"duration": 100,
-				"videos": [{
-					"videoType": "MP4",
-					"url": "https://vz-ca4682e2-e0e.b-cdn.net/6ba41564-428f-4952-96c3-f2c0faed4651/play_720p.mp4",
-					"quality": "HD"
-				}],
-				"language": "en-us",
-				"dateAdded": "2020-01-15T02:39:11Z"
-			}
-		},
+	"Episodes: Memorizing the Word of God": [
 		{
 			"longDescription": "A contrast between the righteous, who delight in God law and thrive, and the wicked, who face destruction.",
 			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/Psalm%201.png",
@@ -233,30 +208,6 @@
 		},
 		{
 			"longDescription": "Declare restoration and protection over your life and your family!",
-			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/Thankful.png",
-			"releaseDate": "2020-01-17",
-			"genres": [
-				"christian"
-			],
-			"tags": [
-				"getting-started"
-			],
-			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
-			"shortDescription": "Declare restoration and protection over your life!",
-			"title": "Thankful",
-			"content": {
-				"duration": 120,
-				"videos": [{
-					"videoType": "MP4",
-					"url": "https://vz-ca4682e2-e0e.b-cdn.net/dd9fae3a-d88b-4cb3-bf5a-dc92e8ea2cfa/play_720p.mp4",
-					"quality": "HD"
-				}],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
-			}
-		},
-		{
-			"longDescription": "Declare restoration and protection over your life and your family!",
 			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/Psalm%2027.png",
 			"releaseDate": "2020-01-17",
 			"genres": [
@@ -273,30 +224,6 @@
 				"videos": [{
 					"videoType": "MP4",
 					"url": "https://vz-ca4682e2-e0e.b-cdn.net/6c586624-da53-4bcb-9ba5-3eeb84b2d581/play_720p.mp4",
-					"quality": "HD"
-				}],
-				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
-			}
-		},
-		{
-			"longDescription": "Experience the powerful story of a father's love in this touching video inspired by the Prodigal Son. Watch how love can change everything.",
-			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/Prodigal%20Son.png",
-			"releaseDate": "2020-01-17",
-			"genres": [
-				"christian"
-			],
-			"tags": [
-				"getting-started"
-			],
-			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
-			"shortDescription": "Experience the powerful story of a father's love",
-			"title": "Prodigal Son",
-			"content": {
-				"duration": 120,
-				"videos": [{
-					"videoType": "MP4",
-					"url": "https://vz-ca4682e2-e0e.b-cdn.net/06c97dc1-f405-4013-93bb-bd364e9e4455/play_720p.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
@@ -393,6 +320,81 @@
 				"videos": [{
 					"videoType": "MP4",
 					"url": "https://vz-ca4682e2-e0e.b-cdn.net/601c1741-6c74-42b2-8a38-d99a0bc01eb4/play_720p.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		}
+	],
+	"Short Animated Films": [
+	{
+			"longDescription": "Experience the Christmas miracle that changed our lives forever, as we share the story of the birth of Jesus and how timing is everything. Join us on this heartwarming journey of faith and love.",
+			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/Christmas.png",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"children",
+                "christian"
+			],
+			"tags": [
+				"holidays"
+			],
+			"id": "shortform-roku-streaming-overview",
+			"shortDescription": "Experience the Christmas miracle that changed our lives forever.",
+			"title": "Christmas",
+			"content": {
+				"duration": 100,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://vz-ca4682e2-e0e.b-cdn.net/6ba41564-428f-4952-96c3-f2c0faed4651/play_720p.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-15T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Declare restoration and protection over your life and your family!",
+			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/Thankful.png",
+			"releaseDate": "2020-01-17",
+			"genres": [
+				"christian"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+			"shortDescription": "Declare restoration and protection over your life!",
+			"title": "Thankful",
+			"content": {
+				"duration": 120,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://vz-ca4682e2-e0e.b-cdn.net/dd9fae3a-d88b-4cb3-bf5a-dc92e8ea2cfa/play_720p.mp4",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-29T02:39:11Z"
+			}
+		},
+		{
+			"longDescription": "Experience the powerful story of a father's love in this touching video inspired by the Prodigal Son. Watch how love can change everything.",
+			"thumbnail": "https://developer-files.b-cdn.net/roku-channels-thumbnails/Prodigal%20Son.png",
+			"releaseDate": "2020-01-17",
+			"genres": [
+				"christian"
+			],
+			"tags": [
+				"getting-started"
+			],
+			"id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
+			"shortDescription": "Experience the powerful story of a father's love",
+			"title": "Prodigal Son",
+			"content": {
+				"duration": 120,
+				"videos": [{
+					"videoType": "MP4",
+					"url": "https://vz-ca4682e2-e0e.b-cdn.net/06c97dc1-f405-4013-93bb-bd364e9e4455/play_720p.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
